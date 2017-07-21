@@ -1,6 +1,6 @@
 #body, #skillset, #workhistory, #education
 {
- font-family: 'Arial', monospace;
+ font-family: 'Helvetica', monospace;
 }
 
 
@@ -13,7 +13,7 @@ img {
 
 h1
 {
-  font-family: 'Arial', monospace;
+  font-family: 'Helvetica', monospace;
   font-size: 64px;
   text-decoration: underline;
   text-align: center;
