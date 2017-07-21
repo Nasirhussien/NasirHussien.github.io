@@ -1,6 +1,6 @@
 #body, #skillset, #workhistory, #education
 {
- font-family: 'Inconsolata', monospace;
+ font-family: 'Arial', monospace;
 }
 
 
@@ -13,7 +13,7 @@ img {
 
 h1
 {
-  font-family: 'Inconsolata', monospace;
+  font-family: 'Arial', monospace;
   font-size: 64px;
   text-decoration: underline;
   text-align: center;
